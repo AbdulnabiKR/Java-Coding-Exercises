@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pract",
+            "request": "launch",
+            "mainClass": "pract",
+            "projectName": "Java language_863fd535"
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "main2",
+            "projectName": "Java language_863fd535"
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "main2",
+            "projectName": "Java language_a62ad8ac"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Java language_a62ad8ac"
+        },
+        {
+            "type": "java",
+            "name": "xtrap",
+            "request": "launch",
+            "mainClass": "xtrap",
+            "projectName": "Java language_a62ad8ac"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "Java language_a62ad8ac"
+        },
+        {
+            "type": "java",
+            "name": "pract",
+            "request": "launch",
+            "mainClass": "pract",
+            "projectName": "Java language_a62ad8ac"
+        }
+    ]
+}
